@@ -1,4 +1,5 @@
-temperaturer = [-5, 2, 6, 13, 9, 22, 28, 19, 24, 12, 5, 1, -3, -8, 2, 8, 15, 18, 21, 26, 21, 31, 15, 4, 1, -2]
+from lister_for_del_1 import temperaturer
+
 b = 10
 
 def tell_elementer(flyt_tall_liste, enkelt_verdi):
