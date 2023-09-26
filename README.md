@@ -1,5 +1,5 @@
 # oving-4
-	oppg,a,b,c,d ble gjort felles
+	oppg,a,b,c ble gjort felles
 
 
 Emil:
